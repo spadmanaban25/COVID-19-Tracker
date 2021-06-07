@@ -1,0 +1,33 @@
+body {
+	height: 905px;
+	background-image: linear-gradient(to bottom right, #512c9c, #1a3ca3);
+}
+h1 {
+	font-size: 50px;
+	color: #bf7526;
+}
+
+
+td {
+	padding-left: 100px;
+}
+
+.title{
+	font-size: 30px;
+	color: #0aa80d;
+}
+.total-cases .value{
+	font-size: 32px;
+	font-weight: bold;
+	color: #21b0ed;
+}
+
+.total-deaths .value{
+	font-size: 32px;
+	font-weight: bold;
+	color: #f04507
+}
+.new-value {
+	font-size: 25px;
+	font-weight: bold;
+}
